@@ -191,5 +191,3 @@ If you want to contribute, just fork the repo and submit a pull request. I'm pre
 The whole thing runs in a single Jupyter notebook because I wanted to keep it simple and accessible. No complex deployment, no web frameworks - just pure Python doing interesting things with text and AI.
 
 ---
-
-*"One must have chaos within oneself to give birth to a dancing star."* - F. Nietzsche
