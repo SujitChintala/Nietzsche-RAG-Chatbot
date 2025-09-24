@@ -145,7 +145,7 @@ ask_nietzsche("Your question", top_k=5)  # Gets more context
 You can swap out Gemini for other models. I chose Gemini-1.5-Flash because it's fast and free, but you could use:
 
 ```python
-gemini_pro = genai.GenerativeModel('gemini-1.5-pro')  # More powerful
+gemini_pro = genai.GenerativeModel('gemini-1.5-pro')  # Or any other paid models for better performance
 ```
 
 ### Adding More Texts
