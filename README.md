@@ -1,7 +1,5 @@
 # Nietzsche RAG Chatbot
 
-Ever wanted to have a conversation with Friedrich Nietzsche? Yeah, me too. So I built this chatbot that lets you do exactly that.
-
 This project uses Retrieval-Augmented Generation (RAG) to create an AI assistant that responds as if it's Nietzsche himself. I fed it all his major works, and now you can ask him about anything from the Übermensch to his thoughts on morality. The responses are grounded in his actual writings, so you're getting authentic philosophical insights, not just generic AI responses.
 
 ## Project Architecture & Structure
