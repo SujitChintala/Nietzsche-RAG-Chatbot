@@ -187,5 +187,3 @@ If you want to contribute, just fork the repo and submit a pull request. I'm pre
 **A Note on the Project**: This started as a weekend experiment because I was reading Nietzsche and thought "wouldn't it be cool to ask him questions directly?" It turned into something much more interesting than I expected. The responses are genuinely insightful and feel authentic to his philosophical voice.
 
 The whole thing runs in a single Jupyter notebook because I wanted to keep it simple and accessible. No complex deployment, no web frameworks - just pure Python doing interesting things with text and AI.
-
----
